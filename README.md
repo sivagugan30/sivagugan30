@@ -1,4 +1,4 @@
-Hello, I’m Sivagugan30
+Hello, I’m Siva!
 
 I’m interested in leveraging data science to solve real world problems 
 
